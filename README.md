@@ -1,5 +1,5 @@
 **calculator**
 
-_Description This is a simple calculator application that supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using javascript.
+_Description This is a simple calculator application that supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using javascript._
 
-Features Addition Subtraction Multiplication Division_
+_Features Addition Subtraction Multiplication Division_
